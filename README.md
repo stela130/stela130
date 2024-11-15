@@ -10,7 +10,7 @@
 
 <p align="left"> -  🎒 Estudo na <b>ETEC Uirapuru</b>, cursando <b>Desenvolvimento de Sistemas</b>. </p>
 <p align="left"> -  💪 Procuro uma <b>oportunidade de emprego</b>. </p>
-<p align="left"> -  📱 Gosto de desenvolver <b>Softwares,</b>, e também gosto de Sistemas Embarcados. </p>
+<p align="left"> -  📱 Gosto de desenvolver <b>Softwares,</b>, Sistemas Embarcados e Design. </p>
 
 <br>
 
