@@ -2,7 +2,7 @@
  
 # Sobre mim ✍
 
-<img align="right" width="230px" src="https://github.com/user-attachments/assets/e5f6bc8c-cb66-488b-9d6f-d79fbfa8ccf5" />
+<img align="right" width="250px" height="280px" src="https://github.com/user-attachments/assets/e5f6bc8c-cb66-488b-9d6f-d79fbfa8ccf5" />
 
 
 <br>
