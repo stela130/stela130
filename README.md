@@ -2,7 +2,7 @@
  
 # Sobre mim ✍
 
-<img align="right" width="390px" src="https://github.com/user-attachments/assets/e5f6bc8c-cb66-488b-9d6f-d79fbfa8ccf5" />
+<img align="right" width="225px" src="https://github.com/user-attachments/assets/e5f6bc8c-cb66-488b-9d6f-d79fbfa8ccf5" />
 
 
 <br>
@@ -32,11 +32,11 @@
 ![html5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![css3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![php](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![mysql](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![php](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=777bb3)
+![mysql](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=white)
 ![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![kotlin](https://img.shields.io/badge/Kotlin-323330?&style=for-the-badge&logo=kotlin&logoColor=0095D5)
-![sqlite](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![sqlite](https://img.shields.io/badge/SQLite-323330?style=for-the-badge&logo=sqlite&logoColor=8bd1f7)
 
 
 ##
@@ -54,7 +54,7 @@
 
 ![dart](https://img.shields.io/badge/Dart-323330?style=for-the-badge&logo=dart&logoColor=04599c)
 ![flutter](https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=flutter&logoColor=5ac7f8)
-![firebase](https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=flutter&logoColor=5ac7f8)
-![python](https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=flutter&logoColor=5ac7f8)
+![firebase](https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=ff9100)
+![python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=4479a1)
 
 ##
