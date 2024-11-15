@@ -19,7 +19,7 @@
 
 ### Me contate 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=ff0000)](https://www.linkedin.com/in/stela-causso/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=0066c7)](https://www.linkedin.com/in/stela-causso/)
 
 
 
