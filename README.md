@@ -40,7 +40,7 @@
 
 ##
 
-### IDE's que utilizo / IDE's I use
+### IDE's que utilizo
 
 ![androidstudio](https://img.shields.io/badge/Android_Studio-323330?style=for-the-badge&logo=android-studio&logoColor=0a9b10)
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
